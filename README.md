@@ -29,6 +29,7 @@ ToDo App is simple app to organize your tasks with very easy to use interface. T
 ![TODO-DASHBOARD](https://i.ibb.co/PChvKGN/photo-2021-06-14-11-32-10.jpg)
 
 * TOTAL TASKS
+
 ![TOTAL TASKS](https://i.ibb.co/99mQhvB/photo-2021-06-14-11-32-12.jpg)
 
 
