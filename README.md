@@ -24,10 +24,4 @@ ToDo App is simple app to organize your tasks with very easy to use interface. T
 
 ![TODO - LOG IN](https://i.imgur.com/0W6sRQ9.png)
 
-* DASHBOARD
 
-![TODO - DASHBOARD](https://i.imgur.com/TKSWIt1.png)
-
-* DASHBOARD - COMPLETE
-
-![TODO - DASHBOARD COMPLETE](https://i.imgur.com/ozCJLfl.png)
